@@ -1,0 +1,37 @@
+<clients>
+	<client>
+		<id>0</id>
+		<name>komp1</name>
+		<state>0</state>
+		<ip>192.168.111.55</ip>
+		<port>4040</port>
+	</client>
+	<client>
+		<id>1</id>
+		<name>I</name>
+		<state>1</state>
+		<ip>localhost</ip>
+		<port>4040</port>
+	</client>
+	<client>
+		<id>2</id>
+		<name>Ilya</name>
+		<state>0</state>
+		<ip>192.168.1.100</ip>
+		<port>4040</port>
+	</client>
+	<client>
+		<id>3</id>
+		<name>Yuriy</name>
+		<state>1</state>
+		<ip>192.168.1.114</ip>
+		<port>4040</port>
+	</client>
+	<client>
+		<id>4</id>
+		<name>Denis</name>
+		<state>1</state>
+		<ip>192.168.1.108</ip>
+		<port>4040</port>
+	</client>
+</clients>
